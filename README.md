@@ -1,0 +1,1 @@
+This repository is created to solve main nlp tasks for educational puproses. For each task there is a separate notebook that solves this task on a partucular dataset. The following problems are solved here: text clasification, token classification, NER, embedding learning, text generation, text translation, summarization. 
