@@ -16,7 +16,7 @@ The dataset that was used for classification task can be found [here](https://hu
   <tr>
     <th>F1-score</th>
     <td>0.084</td>
-    <td>Data 2</td>
+    <td>0.716</td>
     <td>Data 3</td>
     <td>Data 4</td>
     <td>Data 5</td>>
