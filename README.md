@@ -2,8 +2,7 @@
 This repository is created to solve main nlp tasks for educational puproses. For each task there is a separate notebook that solves this task on a particular dataset. The following problems are solved here: text clasification, token classification, NER, embedding learning, text generation, text translation, summarization. Training artifacts can be found at this [google drive folder](https://drive.google.com/drive/folders/1sB6qpR5yn_is7U1hBhauwLUWmD-kE4Mm?usp=sharing)
 
 ## Text classification
-The dataset that was used for classification task can be found [here](https://huggingface.co/datasets/mteb/emotion). The following model were trained to solve this task: Dummy, TF-IDF + Linear layer, RNN, LSTM, GRU, BERT. Results are present in the following table:
-
+The dataset that was used for classification task can be found [here](https://huggingface.co/datasets/mteb/emotion). The following model were trained to solve this task: Dummy, TF-IDF + Linear layer, RNN, LSTM, GRU, BERT. BERT training script is located [here](https://colab.research.google.com/drive/1ZEU4bdtIYlJEUvySwG7-ckUcXwxiRTTs?usp=sharing). The results are present in the following table:
 <table>
   <tr>
     <th></th>
@@ -21,8 +20,8 @@ The dataset that was used for classification task can be found [here](https://hu
     <td>0.716</td>
     <td>0.302</td>
     <td>0.629</td>
-    <td>Data 5</td>
-    <td>Data 5</td>>
-    <td>Data 6</td>
+    <td>0.620</td>
+    <td>0.597</td>
+    <td>-</td>
   </tr>
 </table>
