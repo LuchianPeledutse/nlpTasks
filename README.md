@@ -11,6 +11,7 @@ The dataset that was used for classification task can be found [here](https://hu
     <th>TF-IDF + Linear</th>
     <th>RNN(300, 300)</th>
     <th>LSTM(300, 300)</th>
+    <th>LSTM(300, 300, bidirectional = True)
     <th>GRU(300, 300)</th>
     <th>BERT-base-uncased</th>
   </tr>
@@ -19,7 +20,8 @@ The dataset that was used for classification task can be found [here](https://hu
     <td>0.084</td>
     <td>0.716</td>
     <td>0.302</td>
-    <td>Data 4</td>
+    <td>0.629</td>
+    <td>Data 5</td>
     <td>Data 5</td>>
     <td>Data 6</td>
   </tr>
