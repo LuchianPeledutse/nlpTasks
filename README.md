@@ -1,7 +1,8 @@
 # Introduction
 This repository is created to solve main nlp tasks for educational puproses. For each task there is a separate notebook that solves this task on a partucular dataset. The following problems are solved here: text clasification, token classification, NER, embedding learning, text generation, text translation, summarization.
 ## Text classification
-The dataset that was used for classification task can be found [here](https://huggingface.co/datasets/mteb/emotion). The following model were trained to solve this task: Dummy, TF-IDF + Linear layer, RNN, LSTM, GRU, BERT. Results are present in the following table: 
+The dataset that was used for classification task can be found [here](https://huggingface.co/datasets/mteb/emotion). The following model were trained to solve this task: Dummy, TF-IDF + Linear layer, RNN, LSTM, GRU, BERT. Results are present in the following table:
+
 <table>
   <tr>
     <th></th> <!-- optional empty corner -->
