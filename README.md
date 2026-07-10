@@ -22,6 +22,6 @@ The dataset that was used for classification task can be found [here](https://hu
     <td>0.629</td>
     <td>0.620</td>
     <td>0.597</td>
-    <td>-</td>
+    <td>0.64</td>
   </tr>
 </table>
