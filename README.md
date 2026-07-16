@@ -35,5 +35,9 @@ The dataset that was used for russian token classification can be found [here](h
 | мою | VERB|
 |Окно | NOUN|
 |<end>|<end>|
-
-
+The model was trainined for 6 hours on provided dataset. Here is an example of model inference: 
+|Words | Predicted tag|
+|:-----|--------------|
+|Он    |     PRON     |
+|пошел |     VERB     |
+|гулять|     VERB     |
