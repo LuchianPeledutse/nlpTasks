@@ -44,4 +44,4 @@ The model was trainined for 6 hours on provided dataset. Here is an example of m
 |гулять|     VERB     |
 
 ## NER task
-Named entity recognition on dataset that can be found [here](tanaos/synthetic-NER-dataset-v1). Main text tokenization with BPE algorithm. Encoding with labels and ailgnment of labels. Usage of LSTM model for training and further inference.
+Named entity recognition on dataset that can be found [here](https://huggingface.co/datasets/tanaos/synthetic-NER-dataset-v1). Main text tokenization with BPE algorithm. Encoding with labels and ailgnment of labels. Usage of LSTM model for training and further inference.
